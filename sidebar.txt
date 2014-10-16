@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bvi:home|Door43 (bvi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bvi|d43-bvi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bvi/archive/master.zip|d43-bvi.zip]]
+
+**Recent Changes**
+{{changes>ns = bvi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bvi|Ethnologue data]]
+
